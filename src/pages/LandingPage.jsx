@@ -53,7 +53,7 @@ const LandingPage = ({ onStartExam }) => {
           <div className="flex items-center justify-center gap-3 mb-8">
             <div className="flex justify-between items-center overflow-hidden bg-linear-to-r from-white to-white-dark p-3 rounded-2xl shadow-lg w-16 h-16 ">
               {/* <BookOpen className="w-8 h-8 text-white" /> */}
-              <img src="/public/logo1.png" alt="" className="" />
+              <img src="/logo1.png" alt="" className="" />
             </div>
             <div>
               <h1 className="text-3xl md:text-4xl font-bold ">
