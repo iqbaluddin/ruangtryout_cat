@@ -19,7 +19,7 @@ const Header = ({
           <div className="flex items-center gap-3">
             <div className="flex items-center gap-2">
               <div className="flex justify-between items-center overflow-hidden bg-white p-3 rounded-2xl shadow-lg w-16 h-16 ">
-                <img src="/public/logo1.png" alt="" className="" />
+                <img src="/logo1.png" alt="" className="" />
               </div>
               <div>
                 <h1 className="text-xl md:text-2xl font-bold leading-tight">
