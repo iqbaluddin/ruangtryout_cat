@@ -100,7 +100,7 @@ const LandingPage = ({ onStartExam }) => {
                       Total Soal
                     </span>
                   </div>
-                  <p className="text-2xl font-bold text-gray-800">50</p>
+                  <p className="text-2xl font-bold text-gray-800">135</p>
                   <p className="text-xs text-gray-400">Soal Pilihan Ganda</p>
                 </div>
 
