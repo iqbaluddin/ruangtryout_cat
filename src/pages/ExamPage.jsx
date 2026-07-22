@@ -25,6 +25,8 @@ const ExamPage = () => {
   const [showResults, setShowResults] = useState(false);
   const [examResults, setExamResults] = useState(null);
 
+  // const DURATION = 420; // 2 jam
+  // const DURATION = 1200; // 2 jam
   const DURATION = 7200; // 2 jam
   const questionsPerPage = 20;
   const totalPages = Math.ceil(questions.length / questionsPerPage);
